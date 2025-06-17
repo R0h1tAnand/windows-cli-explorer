@@ -2,7 +2,7 @@
 
 A modern, terminal-based file explorer built with Textual, a Python TUI (Text User Interface) framework. This application allows you to browse your file system, view directory contents, and preview various file types directly from your terminal.
 
-![Terminal File Explorer App](https://github.com/Textual-UI-sample/assets/file_explorer_screenshot.png)
+![Terminal File Explorer App](https://github.com/R0h1tAnand/windows-cli-explorer/blob/main/assets/demo.png)
 
 ## Features
 
